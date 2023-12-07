@@ -1,0 +1,15 @@
+/Applications/practice_WF/lession3/ex7b/bin/Debug/net7.0/ex7b
+/Applications/practice_WF/lession3/ex7b/bin/Debug/net7.0/ex7b.deps.json
+/Applications/practice_WF/lession3/ex7b/bin/Debug/net7.0/ex7b.runtimeconfig.json
+/Applications/practice_WF/lession3/ex7b/bin/Debug/net7.0/ex7b.dll
+/Applications/practice_WF/lession3/ex7b/bin/Debug/net7.0/ex7b.pdb
+/Applications/practice_WF/lession3/ex7b/obj/Debug/net7.0/ex7b.csproj.AssemblyReference.cache
+/Applications/practice_WF/lession3/ex7b/obj/Debug/net7.0/ex7b.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/practice_WF/lession3/ex7b/obj/Debug/net7.0/ex7b.AssemblyInfoInputs.cache
+/Applications/practice_WF/lession3/ex7b/obj/Debug/net7.0/ex7b.AssemblyInfo.cs
+/Applications/practice_WF/lession3/ex7b/obj/Debug/net7.0/ex7b.csproj.CoreCompileInputs.cache
+/Applications/practice_WF/lession3/ex7b/obj/Debug/net7.0/ex7b.dll
+/Applications/practice_WF/lession3/ex7b/obj/Debug/net7.0/refint/ex7b.dll
+/Applications/practice_WF/lession3/ex7b/obj/Debug/net7.0/ex7b.pdb
+/Applications/practice_WF/lession3/ex7b/obj/Debug/net7.0/ex7b.genruntimeconfig.cache
+/Applications/practice_WF/lession3/ex7b/obj/Debug/net7.0/ref/ex7b.dll

@@ -1,0 +1,15 @@
+/Applications/practice_WF/lession3/exercise 3/bin/Debug/net7.0/exercise 3
+/Applications/practice_WF/lession3/exercise 3/bin/Debug/net7.0/exercise 3.deps.json
+/Applications/practice_WF/lession3/exercise 3/bin/Debug/net7.0/exercise 3.runtimeconfig.json
+/Applications/practice_WF/lession3/exercise 3/bin/Debug/net7.0/exercise 3.dll
+/Applications/practice_WF/lession3/exercise 3/bin/Debug/net7.0/exercise 3.pdb
+/Applications/practice_WF/lession3/exercise 3/obj/Debug/net7.0/exercise 3.csproj.AssemblyReference.cache
+/Applications/practice_WF/lession3/exercise 3/obj/Debug/net7.0/exercise 3.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/practice_WF/lession3/exercise 3/obj/Debug/net7.0/exercise 3.AssemblyInfoInputs.cache
+/Applications/practice_WF/lession3/exercise 3/obj/Debug/net7.0/exercise 3.AssemblyInfo.cs
+/Applications/practice_WF/lession3/exercise 3/obj/Debug/net7.0/exercise 3.csproj.CoreCompileInputs.cache
+/Applications/practice_WF/lession3/exercise 3/obj/Debug/net7.0/exercise 3.dll
+/Applications/practice_WF/lession3/exercise 3/obj/Debug/net7.0/refint/exercise 3.dll
+/Applications/practice_WF/lession3/exercise 3/obj/Debug/net7.0/exercise 3.pdb
+/Applications/practice_WF/lession3/exercise 3/obj/Debug/net7.0/exercise 3.genruntimeconfig.cache
+/Applications/practice_WF/lession3/exercise 3/obj/Debug/net7.0/ref/exercise 3.dll
