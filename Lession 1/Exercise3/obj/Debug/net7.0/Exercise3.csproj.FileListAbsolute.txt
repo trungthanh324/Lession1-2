@@ -1,0 +1,15 @@
+/Users/trungthanh/WIndowC#/Lession 1/Exercise3/bin/Debug/net7.0/Exercise3
+/Users/trungthanh/WIndowC#/Lession 1/Exercise3/bin/Debug/net7.0/Exercise3.deps.json
+/Users/trungthanh/WIndowC#/Lession 1/Exercise3/bin/Debug/net7.0/Exercise3.runtimeconfig.json
+/Users/trungthanh/WIndowC#/Lession 1/Exercise3/bin/Debug/net7.0/Exercise3.dll
+/Users/trungthanh/WIndowC#/Lession 1/Exercise3/bin/Debug/net7.0/Exercise3.pdb
+/Users/trungthanh/WIndowC#/Lession 1/Exercise3/obj/Debug/net7.0/Exercise3.csproj.AssemblyReference.cache
+/Users/trungthanh/WIndowC#/Lession 1/Exercise3/obj/Debug/net7.0/Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trungthanh/WIndowC#/Lession 1/Exercise3/obj/Debug/net7.0/Exercise3.AssemblyInfoInputs.cache
+/Users/trungthanh/WIndowC#/Lession 1/Exercise3/obj/Debug/net7.0/Exercise3.AssemblyInfo.cs
+/Users/trungthanh/WIndowC#/Lession 1/Exercise3/obj/Debug/net7.0/Exercise3.csproj.CoreCompileInputs.cache
+/Users/trungthanh/WIndowC#/Lession 1/Exercise3/obj/Debug/net7.0/Exercise3.dll
+/Users/trungthanh/WIndowC#/Lession 1/Exercise3/obj/Debug/net7.0/refint/Exercise3.dll
+/Users/trungthanh/WIndowC#/Lession 1/Exercise3/obj/Debug/net7.0/Exercise3.pdb
+/Users/trungthanh/WIndowC#/Lession 1/Exercise3/obj/Debug/net7.0/Exercise3.genruntimeconfig.cache
+/Users/trungthanh/WIndowC#/Lession 1/Exercise3/obj/Debug/net7.0/ref/Exercise3.dll
